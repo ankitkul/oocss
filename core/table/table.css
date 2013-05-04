@@ -1,6 +1,6 @@
-/** 
- * Data Table 
- * Allows you to align various table cells so that the alignment class can be placed on either the table, table row, or table cell 
+/**
+ * Data Table
+ * Allows you to align various table cells so that the alignment class can be placed on either the table, table row, or table cell
  * Cell takes precedence over table row and table
  * Table row takes precedence over table
  */
